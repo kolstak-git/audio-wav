@@ -1,9 +1,10 @@
 # Kolstak Demo
-## WAV Compression Engine — FLAC L5 Benchmarking — JavaScript Front-End (Thin Client)
+## Lossless WAV Compression Engine — FLAC L5 Benchmarking — JavaScript Front-End (Thin Client)
 
 This repository provides a minimal client for testing the Kolstak audio WAV compression service.
 
 Compressed files are:
+- Lossless, verified.
 - Fully self-contained; no external dictionaries or supporting assets required.
 - AES-256-CBC encrypted.
 
