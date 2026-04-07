@@ -1,5 +1,5 @@
 # Kolstak Demo
-## WAV Compression Engine — Outperforms FLAC L5 — JavaScript Front-End (Thin Client)
+## WAV Compression Engine — FLAC L5 Benchmarking — JavaScript Front-End (Thin Client)
 
 This repository provides a minimal client for testing the Kolstak audio WAV compression service.
 
