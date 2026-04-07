@@ -4,7 +4,7 @@
 This repository provides a minimal client for testing the Kolstak audio WAV compression service.
 
 Compressed files are:
-- Lossless, verified.
+- Lossless at the PCM layer (bit-exact sample reconstruction).
 - Fully self-contained; no external dictionaries or supporting assets required.
 - AES-256-CBC encrypted.
 
